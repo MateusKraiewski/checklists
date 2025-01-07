@@ -13,7 +13,7 @@
 
 ### **Clonando o Repositório**
 ```bash
-git clone https://github.com/seu-repositorio/transporte-checklist-api.git
+git clone https://github.com/MateusKraiewski/checklists.git
 cd transporte-checklist-api
 
  -------------------------------------------
