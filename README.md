@@ -1,3 +1,11 @@
+# TransporteChecklistFront nao consegui terminar nao deu tempo, porem pode ser feito tudo pelo swagger do back
+
+
+
+
+
+
+
 # TransporteChecklistAPI
 
 **TransporteChecklistAPI** é uma aplicação de backend desenvolvida em .NET 8 para gerenciar checklists de veículos. Esta API permite o controle de usuários, configurações de itens de checklist, e a execução de checklists de transporte com padrões definidos.
