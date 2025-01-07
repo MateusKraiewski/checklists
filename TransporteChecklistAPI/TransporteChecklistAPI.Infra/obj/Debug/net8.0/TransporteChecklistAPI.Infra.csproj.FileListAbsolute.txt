@@ -1,0 +1,17 @@
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\bin\Debug\net8.0\TransporteChecklistAPI.Infra.deps.json
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\bin\Debug\net8.0\TransporteChecklistAPI.Infra.dll
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\bin\Debug\net8.0\TransporteChecklistAPI.Infra.pdb
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\TransporteChecklistAPI.Infra.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\TransporteChecklistAPI.Infra.AssemblyInfoInputs.cache
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\TransporteChecklistAPI.Infra.AssemblyInfo.cs
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\TransporteChecklistAPI.Infra.csproj.CoreCompileInputs.cache
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\TransporteChecklistAPI.Infra.dll
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\refint\TransporteChecklistAPI.Infra.dll
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\TransporteChecklistAPI.Infra.pdb
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\ref\TransporteChecklistAPI.Infra.dll
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\bin\Debug\net8.0\TransporteChecklistAPI.Application.dll
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\bin\Debug\net8.0\TransporteChecklistAPI.Domain.dll
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\bin\Debug\net8.0\TransporteChecklistAPI.Application.pdb
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\bin\Debug\net8.0\TransporteChecklistAPI.Domain.pdb
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\TransporteChecklistAPI.Infra.csproj.AssemblyReference.cache
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Infra\obj\Debug\net8.0\TransporteChecklistAPI.Infra.csproj.CopyComplete

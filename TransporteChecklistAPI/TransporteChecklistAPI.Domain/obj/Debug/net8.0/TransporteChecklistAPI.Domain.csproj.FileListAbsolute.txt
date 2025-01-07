@@ -1,0 +1,11 @@
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\bin\Debug\net8.0\TransporteChecklistAPI.Domain.deps.json
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\bin\Debug\net8.0\TransporteChecklistAPI.Domain.dll
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\bin\Debug\net8.0\TransporteChecklistAPI.Domain.pdb
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\obj\Debug\net8.0\TransporteChecklistAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\obj\Debug\net8.0\TransporteChecklistAPI.Domain.AssemblyInfoInputs.cache
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\obj\Debug\net8.0\TransporteChecklistAPI.Domain.AssemblyInfo.cs
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\obj\Debug\net8.0\TransporteChecklistAPI.Domain.csproj.CoreCompileInputs.cache
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\obj\Debug\net8.0\TransporteChecklistAPI.Domain.dll
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\obj\Debug\net8.0\refint\TransporteChecklistAPI.Domain.dll
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\obj\Debug\net8.0\TransporteChecklistAPI.Domain.pdb
+H:\Mateus\Projetos\TransporteCheck\TransporteChecklistAPI\TransporteChecklistAPI.Domain\obj\Debug\net8.0\ref\TransporteChecklistAPI.Domain.dll
